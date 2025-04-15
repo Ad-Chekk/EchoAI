@@ -2,9 +2,9 @@
 
 A powerful, intelligent web content analysis framework built with advanced **Large Language Models (LLMs)** and traditional **Machine Learning pipelines**. This tool can intelligently scrape, analyze, and visualize web data for  topics, summarization, Q and A qith the web based data and more.
 possible use cases include--\
-education - understant topics from web based sites instantly
-news based checking - analyze news and identify working entities (useful for cybersecurity and terrorism based news analysis)
-financial news analysys - analyse key economic entities and summarize financial news quickly to act on stocks and other investments
+- education  understant topics from web based sites instantly
+- news based checking  analyze news and identify working entities (useful for cybersecurity and terrorism based news analysis)
+- financial news analysys  analyse key economic entities and summarize financial news quickly to act on stocks and other investments
 
 ## 🔍 Features
 
