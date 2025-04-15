@@ -1,6 +1,10 @@
 # Web Content Analyzer with LLMs 🧠🌐
 
-A powerful, intelligent web content analysis framework built with advanced **Large Language Models (LLMs)** and traditional **Machine Learning pipelines**. This tool can intelligently scrape, analyze, and visualize web data for sentiment, topics, summarization, and more.
+A powerful, intelligent web content analysis framework built with advanced **Large Language Models (LLMs)** and traditional **Machine Learning pipelines**. This tool can intelligently scrape, analyze, and visualize web data for  topics, summarization, Q and A qith the web based data and more.
+possible use cases include--\
+education - understant topics from web based sites instantly
+news based checking - analyze news and identify working entities (useful for cybersecurity and terrorism based news analysis)
+financial news analysys - analyse key economic entities and summarize financial news quickly to act on stocks and other investments
 
 ## 🔍 Features
 
@@ -61,10 +65,15 @@ streamlit run app.py
 ## 📊 Output Examples
 
 - Summarized text
-- Extracted entities
-- Sentiment polarity (positive/negative/neutral)
-- Top keywords
-- Visualized content charts
+- ![WhatsApp Image 2025-04-13 at 14 25 00_982b5f6a](https://github.com/user-attachments/assets/28d0f7cf-f056-46ab-81ff-a6ca39a64cc2)
+
+- Extracted keywords and entities
+![WhatsApp Image 2025-04-13 at 14 26 30_91d6a342](https://github.com/user-attachments/assets/b3babd7b-37d8-48b1-a2c0-95a9eb4a8a20)
+
+
+- Q and A with the processed data
+- ![WhatsApp Image 2025-04-13 at 18 47 35_55dec7fd](https://github.com/user-attachments/assets/722794a1-ef07-41de-b50d-1e9d96229f96)
+
 
 ---
 
