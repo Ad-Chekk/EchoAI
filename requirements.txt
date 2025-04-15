@@ -7,6 +7,5 @@ keybert
 spacy
 nltk
 sklearn
-re
-string
+
 
