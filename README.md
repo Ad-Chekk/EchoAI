@@ -107,9 +107,7 @@ EchoSift integrates a lightweight metadata-driven layer to ensure compliant and 
 ---
 
 ###  New Output Panels (Coming Soon)
-
-> *(Leave these placeholders for your upcoming dashboards)*
-
+futurework (suggestions welcomed)
 - ✅ **Time-Series Graph** of Scraper Performance by Hour/Day
 - ✅ **Security Violation Heatmap** (e.g., unusual redirects, flagged pages)
 - ✅ **Scraping Quality Score** based on metadata + content structure
@@ -121,8 +119,8 @@ EchoSift integrates a lightweight metadata-driven layer to ensure compliant and 
 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/yourusername/web-content-analyzer
-cd web-content-analyzer
+git clone https://github.com/yourusername/EchoAI
+cd EchoAI
 ```
 
 2. **Install Dependencies**
