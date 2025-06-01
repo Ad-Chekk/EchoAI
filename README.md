@@ -119,8 +119,8 @@ futurework (suggestions welcomed)
 
 1. **Clone the Repo**
 ```bash
-git clone https://github.com/yourusername/EchoAI
-cd EchoAI
+git clone https://github.com/Ad-Chekk/EchoAI
+
 ```
 
 2. **Install Dependencies**
